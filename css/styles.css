@@ -1,0 +1,78 @@
+body {
+    background-color: #e3e6da;
+    font-size: 100%;
+    font-size: 62.5%;
+    line-height: 1.5;
+    margin: 24px auto;
+    width: 960px;
+
+    /* background-image: linear-gradient(#0ff 1px, transparent 1px); */
+    /* background-size: auto 24px; */
+}
+
+/** Typography **/
+h1 {font-size: 4rem;}
+h2 {font-size: 2rem;}
+p {font-size: 1rem;}
+
+section {
+    background-color: #ebebe9;
+    padding-bottom: 24px;
+}
+
+h1 {
+    background-color: #253628;
+    /* color: #ebebe9; */
+    color: #e3e6da;
+    font-family: 'Sriracha', cursive;
+    margin-bottom: 24px;
+    padding-left: 24px;
+}
+
+h2 {
+    margin-bottom: 24px;
+    margin-top: 48px;
+    padding-left: 24px;
+}
+
+p {
+    margin-bottom: 24px;
+    max-width: 480px;
+    padding-left: 24px;
+}
+
+.fable-one h2 {
+    background-color: #8aa989;
+    font-family: 'Dancing Script', cursive;
+}
+
+.fable-one p {
+    font-family: 'EB Garamond', serif;
+}
+
+.fable-two h2 {
+    background-color: #c0ceb2;
+    font-family: 'Eczar', serif;
+}
+
+.fable-two p {
+    font-family: 'Merriweather', serif;
+}
+
+.fable-three h2 {
+    background-color: #8aa989;
+    font-family: 'Goudy Bookletter 1911', serif;
+}
+
+.fable-three p {
+    font-family: 'Average Sans', sans-serif;
+}
+
+.fable-four h2 {
+    background-color: #c0ceb2;
+    font-family: 'Marck Script', cursive;
+}
+
+.fable-four p {
+    font-family: 'Alice', serif;
+}
